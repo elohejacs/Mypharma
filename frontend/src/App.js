@@ -10,7 +10,7 @@ import Settings from './components/Settings';
 import Layout from './components/Layout';
 
 // Configure axios defaults
-axios.defaults.baseURL = 'http://localhost:5000/api';
+axios.defaults.baseURL = 'https://mypharma-1.onrender.com/api';
 
 function App() {
   const [currentView, setCurrentView] = useState('login');
