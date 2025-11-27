@@ -92,7 +92,7 @@ MyPharma is a complete solution that is designed to perform daily operations for
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/mypharma.git
+git clone https://github.com/elohejacs/mypharma.git
 cd mypharma
 ```
 
@@ -112,7 +112,7 @@ npm install
 
 Create `.env` file in backend folder:
 ```env
-JWT_SECRET=your-secret-key-here
+JWT_SECRET=mypharma_secret_key_change_in_production_2025
 PORT=5000
 NODE_ENV=development
 ```
@@ -144,7 +144,7 @@ npm start
 ### First Time Setup
 
 1. **Login with default credentials:**
-   - Email: `elohe@mypharma.com`
+   - Email: `elohe@mypharma.rw`
    - Password: `password123`
 
 2. **Configure Settings (PIN: 1234):**
